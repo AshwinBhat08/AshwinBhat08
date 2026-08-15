@@ -83,11 +83,4 @@ I enjoy building projects that bridge hardware and software, from embedded firmw
 
 ---
 
-## 📫 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: *(Add your LinkedIn profile here)*
-
----
-
 *"Learning by building real-world robotics and embedded systems."*

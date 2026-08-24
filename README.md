@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="AshwinBhat08's GitHub profile" src="dark_mode.svg" />
+</picture>
 # Hi there 👋, I'm Ashwin Bhat
 
 ### Electronics & Communication Engineering Student | Embedded Systems | Robotics | ROS 2 | AI Enthusiast

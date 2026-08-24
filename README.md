@@ -1,4 +1,3 @@
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
@@ -6,28 +5,35 @@
 </picture>
 
 <!-- ========================================================= -->
+
 <!--        PREMIUM · MINIMAL · FUTURISTIC GITHUB PROFILE      -->
+
 <!-- ========================================================= -->
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1E3A5F&height=190&section=header&text=Hey%20there,%20I'm%20Ashwin%20Bhat&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20Robotics%20%C2%B7%20AI&descAlignY=60&descSize=18&descColor=AAB4C3"
+    width="100%"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1E3A5F&height=190&section=header&text=Hey%20there,%20I'm%20Ashwin%20Bhat&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20Robotics%20%C2%B7%20AI&descAlignY=60&descSize=18&descColor=AAB4C3" width="100%" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+intelligent+machines.;Embedded+Systems+%C2%B7+Robotics+%C2%B7+AI;Building+the+future%2C+one+project+at+a+time."
+    alt="Typing SVG"
+  />
+</p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+intelligent+machines.;Embedded+Systems+%C2%B7+Robotics+%C2%B7+AI;Building+the+future%2C+one+project+at+a+time." />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AshwinBhat08&label=PROFILE+VIEWS&color=1E3A5F&style=flat-square" />
-
-<img src="https://img.shields.io/github/followers/AshwinBhat08?label=FOLLOWERS&style=flat-square&color=1E3A5F&labelColor=0D1117" />
-
-<img src="https://img.shields.io/github/stars/AshwinBhat08?label=STARS&style=flat-square&color=58A6FF&labelColor=0D1117" />
-
-</div>
-
-<br/>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=AshwinBhat08&label=PROFILE+VIEWS&color=1E3A5F&style=flat-square"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/AshwinBhat08?label=FOLLOWERS&style=flat-square&color=1E3A5F&labelColor=0D1117"
+    alt="GitHub Followers"
+  />
+</p>
 
 ---
 
@@ -38,119 +44,179 @@
 </div>
 
 <table align="center">
+
 <tr>
 
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
 ```cpp
 class Engineer {
 public:
-    string name     = "Ashwin Bhat";
-    string role     = "ECE Student & Robotics Developer";
+    string name = "Ashwin Bhat";
+
+    string role =
+        "4th Year Electronics & Communication Engineering Student";
 
     vector<string> interests = {
         "Embedded Systems",
         "Robotics",
+        "Autonomous Systems",
         "ROS 2",
-        "Autonomous Navigation",
-        "Computer Vision",
         "Artificial Intelligence"
     };
 
     string motto = "Build. Break. Learn. Repeat.";
 };
-````
+```
 
-I'm an **Electronics & Communication Engineering student**
-focused on building systems where **hardware, software, and intelligence meet**.
+I'm a **4th Year Electronics & Communication Engineering student** focused on building systems where **hardware, software, and intelligence meet**.
 
-My work revolves around embedded development, robotics,
-autonomous systems, and AI-powered applications.
+My work revolves around **embedded systems, robotics, autonomous navigation, and intelligent machines**.
 
-Currently exploring how multiple intelligent machines can
-**perceive, navigate, communicate, and work together.**
+Currently exploring how machines can **perceive, navigate, communicate, and work together**.
+
+<br/>
+
+### `FOCUS`
+
+`EMBEDDED SYSTEMS` · `ROBOTICS` · `AUTONOMOUS SYSTEMS`
+
+`INTELLIGENT MACHINES` · `AI` · `COMPUTER VISION`
 
 </td>
 
-<td width="35%" align="center">
+<td width="38%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinBhat08&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=AAB4C3" width="100%" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshwinBhat08&theme=github_dark"
+width="100%"
+alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AshwinBhat08&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=AAB4C3&rank_icon=github" width="100%" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshwinBhat08&theme=github_dark"
+width="100%"
+alt="GitHub Statistics"
+/>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td colspan="2" align="center" valign="middle">
+
+<br/>
+
+### `TECH_STACK`
+
+<br/>
+
+<img
+src="https://skillicons.dev/icons?i=cpp,python,arduino,git,github&theme=dark"
+alt="C++, Python, Arduino, Git and GitHub"
+/>
+
+  
+
+<img
+src="https://img.shields.io/badge/ESP32-1A1F29?style=for-the-badge&logo=espressif&logoColor=58A6FF"
+alt="ESP32"
+/>
+
+ 
+
+<img
+src="https://img.shields.io/badge/ROS_2-1A1F29?style=for-the-badge&logo=ros&logoColor=58A6FF"
+alt="ROS 2"
+/>
+
+<br/><br/>
+
+`C++` · `PYTHON` · `ARDUINO`  | 
+`ESP32` · `ROS 2`  | 
+`GIT` · `GITHUB`
+
+<br/>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
 <div align="center">
-
-## `TECH_STACK`
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,git,github,vscode,opencv,cmake,ubuntu&perline=12&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ROS_2-0D1117?style=for-the-badge&logo=ros&logoColor=58A6FF" />
-
-<img src="https://img.shields.io/badge/STM32-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=58A6FF" />
-
-<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=58A6FF" />
-
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=58A6FF" />
-
-</div>
-
----
 
 <div align="center">
 
 ## `CURRENT_PROJECTS`
 
+<p>
+  <i>Systems I'm currently building, experimenting with, and pushing forward.</i>
+</p>
+
 <br/>
 
 <table>
+
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### 🤖 LUNA V2
 
-**Semi-Humanoid Robot**
+**Semi-Humanoid Robotics Platform**
 
-Embedded Systems
-Servo Control
-Robotics
+Building a robotics platform focused on **motion, control, interaction, and intelligent behavior**.
+
+<br/>
+
+`EMBEDDED SYSTEMS` · `SERVO CONTROL` · `ROBOTICS`
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### 🔐 PHYLAX
 
-**Smart Access System**
+**Intelligent Smart Access System**
 
-Embedded Development
-Security
-IoT
+A connected security system exploring **authentication, embedded intelligence, and IoT-based access control**.
+
+<br/>
+
+`EMBEDDED` · `SECURITY` · `IoT`
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-### 🐝 SWARM AI
+### 🌐 SWARM AI
 
-**Multi-Robot System**
+**Multi-Robot Coordination System**
 
-ROS 2
-Coordination
-Autonomous Systems
+Exploring how autonomous robots can **communicate, coordinate, and operate as a collective system**.
+
+<br/>
+
+`ROS 2` · `COORDINATION` · `AUTONOMY`
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-RESEARCH-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
@@ -158,36 +224,71 @@ Autonomous Systems
 
 <tr>
 
-<td align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🚗 AUTONOMOUS ROBOT
 
-Obstacle Avoidance
-Sensor Fusion
-Navigation
+**Perception → Planning → Navigation**
+
+Building an autonomous system capable of **understanding its environment and navigating safely**.
+
+<br/>
+
+`SENSOR FUSION` · `OBSTACLE AVOIDANCE` · `NAVIGATION`
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
-<td align="center">
+<td width="33%" align="center" valign="top">
 
-### 🤝 ROS 2 NETWORK
+### 🔗 ROS 2 NETWORK
 
-Peer-to-Peer Communication
-Distributed Robotics
+**Distributed Robotics Infrastructure**
+
+Experimenting with **robot-to-robot communication, distributed nodes, and scalable coordination**.
+
+<br/>
+
+`ROS 2` · `P2P COMMUNICATION` · `NETWORKING`
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
-<td align="center">
+<td width="33%" align="center" valign="top">
 
-### 🛠 POCKET TESTER
+### 🛠️ POCKET TESTER
 
-Portable Electronics
-Embedded Hardware
+**Portable Electronics Diagnostic Tool**
+
+A compact embedded device designed for **testing, debugging, and diagnosing electronic systems**.
+
+<br/>
+
+`EMBEDDED HARDWARE` · `TESTING` · `DIAGNOSTICS`
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-PROTOTYPE-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
 </tr>
+
 </table>
+
+<br/>
+
+<sub>
+Building at the intersection of <b>hardware</b>, <b>software</b>, and <b>intelligence</b>.
+</sub>
+
+</div>
 
 </div>
 
@@ -211,11 +312,42 @@ Embedded Hardware
 
 <div align="center">
 
+## `CONTRIBUTION_SNAKE`
+
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AshwinBhat08/AshwinBhat08/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/AshwinBhat08/AshwinBhat08/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ alt="AshwinBhat08's contribution snake"
+ src="https://raw.githubusercontent.com/AshwinBhat08/AshwinBhat08/output/github-contribution-grid-snake-dark.svg"
+ width="100%"
+/> </picture>
+
+</div>
+
+---
+
+<div align="center">
+
 > *Build systems that matter.*
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1E3A5F&height=120&section=footer" width="100%" />
-```
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1E3A5F&height=120&section=footer"
+    width="100%"
+  />
+</p>

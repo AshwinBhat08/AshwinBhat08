@@ -122,24 +122,17 @@ alt="C, C++, Python, Arduino, Raspberry Pi, Git, GitHub, VS Code, CMake, and Ubu
 />
 
   
-
-<img
-src="https://img.shields.io/badge/ESP32-1A1F29?style=for-the-badge&logo=espressif&logoColor=58A6FF"
-alt="ESP32"
-/>
-
- 
-
-<img
-src="https://img.shields.io/badge/ROS_2-1A1F29?style=for-the-badge&logo=ros&logoColor=58A6FF"
-alt="ROS 2"
-/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/SLAM-1A1F29?style=for-the-badge" alt="SLAM"/>
+  <img src="https://img.shields.io/badge/ROS_2-1A1F29?style=for-the-badge&logo=ros&logoColor=58A6FF" alt="ROS 2"/>
+  <img src="https://img.shields.io/badge/Nav2-1A1F29?style=for-the-badge" alt="Nav2"/>
+  <img src="https://img.shields.io/badge/ESP32-1A1F29?style=for-the-badge&logo=espressif&logoColor=58A6FF" alt="ESP32"/>
+</p>
 <br/><br/>
 
 `C` · `C++` · `PYTHON` · `ARDUINO` · `RASPBERRY PI`   | 
 `GIT` · `GITHUB` · `VS CODE` · `CMAKE` · `UBUNTU`  | 
-`ESP32` · `ROS 2`
+`ESP32` · `ROS 2` · `SLAM` · `NAV2`
 
 <br/>
 

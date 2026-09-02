@@ -4,12 +4,6 @@
   <img alt="AshwinBhat08's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<!-- ========================================================= -->
-
-<!--        PREMIUM · MINIMAL · FUTURISTIC GITHUB PROFILE      -->
-
-<!-- ========================================================= -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1E3A5F&height=190&section=header&text=Hey%20there,%20I'm%20Ashwin%20Bhat&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%C2%B7%20Robotics%20%C2%B7%20AI&descAlignY=60&descSize=18&descColor=AAB4C3"
@@ -111,23 +105,30 @@ alt="GitHub Statistics"
 
 <br/>
 
+
+<tr>
+
+<td colspan="2" align="center" valign="middle">
+
+<br/>
+
 ### `TECH_STACK`
 
 <br/>
 
 <img
-src="https://skillicons.dev/icons?i=cpp,python,arduino,git,github&theme=dark"
-alt="C++, Python, Arduino, Git and GitHub"
+src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,vscode,cmake,ubuntu&theme=dark"
+alt="C, C++, Python, Arduino, Raspberry Pi, Git, GitHub, VS Code, CMake, and Ubuntu"
 />
 
-  
+  
 
 <img
 src="https://img.shields.io/badge/ESP32-1A1F29?style=for-the-badge&logo=espressif&logoColor=58A6FF"
 alt="ESP32"
 />
 
- 
+ 
 
 <img
 src="https://img.shields.io/badge/ROS_2-1A1F29?style=for-the-badge&logo=ros&logoColor=58A6FF"
@@ -136,22 +137,15 @@ alt="ROS 2"
 
 <br/><br/>
 
-`C++` · `PYTHON` · `ARDUINO`  | 
-`ESP32` · `ROS 2`  | 
-`GIT` · `GITHUB`
+`C` · `C++` · `PYTHON` · `ARDUINO` · `RASPBERRY PI`   | 
+`GIT` · `GITHUB` · `VS CODE` · `CMAKE` · `UBUNTU`  | 
+`ESP32` · `ROS 2`
 
 <br/>
 
 </td>
 
 </tr>
-
-</table>
-
----
-
-<div align="center">
-
 <div align="center">
 
 ## `CURRENT_PROJECTS`

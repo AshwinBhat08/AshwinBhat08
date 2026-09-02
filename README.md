@@ -141,12 +141,6 @@ alt="C, C++, Python, Arduino, Raspberry Pi, Git, GitHub, VS Code, CMake, and Ubu
 </tr>
 <div align="center">
 
-## `CURRENT_PROJECTS`
-
-<p>
-  <i>Systems I'm currently building, experimenting with, and pushing forward.</i>
-</p>
-
 <br/>
 
 <table>

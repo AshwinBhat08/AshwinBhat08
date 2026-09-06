@@ -161,7 +161,6 @@ Building a robotics platform focused on **motion, control, interaction, and inte
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
@@ -179,7 +178,6 @@ A connected security system exploring **authentication, embedded intelligence, a
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
@@ -196,8 +194,6 @@ Exploring how autonomous robots can **communicate, coordinate, and operate as a 
 `ROS 2` · `COORDINATION` · `AUTONOMY`
 
 <br/>
-
-<img src="https://img.shields.io/badge/STATUS-RESEARCH-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
@@ -219,7 +215,6 @@ Building an autonomous system capable of **understanding its environment and nav
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
@@ -237,7 +232,6 @@ Experimenting with **robot-to-robot communication, distributed nodes, and scalab
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
@@ -254,8 +248,6 @@ A compact embedded device designed for **testing, debugging, and diagnosing elec
 `EMBEDDED HARDWARE` · `TESTING` · `DIAGNOSTICS`
 
 <br/>
-
-<img src="https://img.shields.io/badge/STATUS-PROTOTYPE-1E3A5F?style=flat-square&labelColor=0D1117"/>
 
 </td>
 
